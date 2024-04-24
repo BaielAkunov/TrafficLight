@@ -5,6 +5,7 @@
 }
 body{
     width: auto;
+    background: linear-gradient(100deg, rgb(78, 78, 255), rgb(102, 202, 253));
 }
 .traffic{
     background-color: rgb(32, 0, 25);
